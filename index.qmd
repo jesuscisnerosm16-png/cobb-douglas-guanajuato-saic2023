@@ -1,0 +1,6 @@
+---
+title: "Relación entre capital, trabajo y valor agregado en la industria manufacturera de Guanajuato"
+lang: es
+---
+
+{{< include Informe_Cobb_Douglas_Guanajuato.qmd >}}
