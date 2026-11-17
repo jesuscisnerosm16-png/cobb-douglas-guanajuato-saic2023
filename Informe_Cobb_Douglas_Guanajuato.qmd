@@ -1,3 +1,0 @@
-{{< include _contenido/_ejecutar_y_validar.qmd >}}
-
-{{< include _contenido/_informe_completo.qmd >}}
