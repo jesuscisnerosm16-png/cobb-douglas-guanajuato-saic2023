@@ -1,7 +1,7 @@
 # Relación entre capital, trabajo y valor agregado en la industria manufacturera de Guanajuato
 
 Proyecto parcial de Econometría I  
-12 de noviembre de 2026
+9 de noviembre de 2026
 
 ## Resumen
 
