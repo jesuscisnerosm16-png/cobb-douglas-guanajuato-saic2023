@@ -1,5 +1,0 @@
----
-lang: es
----
-
-{{< include Informe_Cobb_Douglas_Guanajuato.qmd >}}
